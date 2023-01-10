@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
+//что-то не так, я чувствую это
 
 namespace TRPO_Lab2._1
 {
