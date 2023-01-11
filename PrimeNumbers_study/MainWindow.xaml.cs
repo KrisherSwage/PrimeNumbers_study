@@ -51,7 +51,7 @@ namespace TRPO_Lab2._1
             catch (LeftBorderIsNotAnInteger21)
             {
                 textBoxLeft.Text = "";
-                MessageBox.Show("Введено нечисловое или превышающее максимум значение для левой границы. ", "Ошибка ввода! - 21");
+                //MessageBox.Show("Введено нечисловое или превышающее максимум значение для левой границы. ", "Ошибка ввода! - 21");
                 leftBor = 0;
             }
 
