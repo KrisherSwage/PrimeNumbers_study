@@ -579,7 +579,9 @@ namespace UI_Lab9._1_Test
             }
             else
             {
-                Assert.IsTrue(true);
+                // Assert.IsTrue(true);
+                Assert.Fail();
+
             }
 
             application.Close();
